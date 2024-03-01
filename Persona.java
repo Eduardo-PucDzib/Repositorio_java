@@ -28,16 +28,24 @@ public class Persona {
 
         Persona persona1 = new Persona("JOse Eduardo Puc Dzib", "8346");
 	Persona persona2 = new Persona("Edgar uriel uc tun", "8560");
+        Persona persona3 = new Persona("Angel Wenceslao Ake Cab ", "8349");
 
         System.out.println("Alumno Itescam 1:");
         System.out.println("Nombre: " + persona1.getNombre());
         System.out.println("Matrícula: " + persona1.getMatricula());
         System.out.println();
 	
+
 	System.out.println("Alumno itescam 2");
 	System.out.println("Nombre: " + persona2.getNombre());
 	System.out.println("Matrícula: " + persona2.getMatricula());
 	System.out.println();
+        
+        System.out.println("Alumno itescam 3");
+        System.out.println("Nombre: " + persona3.getNombre());
+        System.out.println("Matrícula: " + persona3.getMatricula());
+        System.out.println();
+
 
     }
 
