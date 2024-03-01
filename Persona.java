@@ -32,7 +32,7 @@ public class Persona {
         System.out.println("Nombre: " + persona1.getNombre());
         System.out.println("Matrícula: " + persona1.getMatricula());
         System.out.println();
-
+        
     }
 
 }
